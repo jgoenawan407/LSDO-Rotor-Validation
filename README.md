@@ -1,0 +1,2 @@
+# LSDO-Rotor-Validation
+This script allows you to avoid the shell-input hassle of rotor design with XROTOR and allows you to edit and input all commands in a simple text file. Users must provide a working directory path for their XROTOR executable file, a text file containing their XROTOR commands (in the order that XROTOR takes them), and an empty file for the script to dump results in and extract relevant data from. 
